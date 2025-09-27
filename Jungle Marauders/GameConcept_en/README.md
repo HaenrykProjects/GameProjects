@@ -60,6 +60,7 @@ They form the basis of an innovative gameplay loop unlike anything currently on 
 
 ---
 
-© 2025 HenrykProjects.  
+© 2025 HaenrykProjects.  
 This is a solo indie project. Ideas, mechanics, and artwork are subject to change.  
 📫 Contact: Hendrik.Tijdink@outlook.de
+
