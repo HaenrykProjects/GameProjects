@@ -60,6 +60,7 @@ Sie bilden die Basis einer innovativen Gameplay-Schleife, die es so bisher in ke
 
 ---
 
-© 2025 HenrykProjects.  
+© 2025 HaenrykProjects.  
 This is a solo indie project. Ideas, mechanics, and artwork are subject to change.  
 📫 Contact: Hendrik.Tijdink@outlook.de
+
